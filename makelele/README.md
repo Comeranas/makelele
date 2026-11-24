@@ -21,7 +21,7 @@ Al igual que Claude Makélélé en el campo de fútbol, este script hace el trab
 ## 📦 Instalación
 
 ```bash
-git clone https://github.com/tu-usuario/makelele.git
+git clone https://github.com/Comeranas/makelele.git
 cd makelele
 
 python3 -m venv venv
